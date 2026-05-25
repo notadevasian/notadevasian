@@ -1,6 +1,6 @@
 # Hi, I'm Dylan 👋
 
-I'm a software developer at [Aqueous Cloud LLC](https://packetware.net)
+I'm a software developer at Aqueous Cloud LLC
 - Currently working on MyAutoShopPro.com
 
 ## Projects
